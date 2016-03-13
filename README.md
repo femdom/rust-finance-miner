@@ -1,2 +1,2 @@
 # rust-finance-miner
-Historical financial data written in Rust
+Historical financial data miner written in Rust
