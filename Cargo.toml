@@ -1,0 +1,13 @@
+[package]
+name = "finance-miner"
+version = "0.1.0"
+authors = ["Renat Galimov <renat2017@gmail.com>"]
+
+[dependencies]
+argparse = "*"
+hyper = "*"
+log = "*"
+regex = "*"
+encoding = "*"
+yaml-rust = "*"
+prettytable-rs = "*"
